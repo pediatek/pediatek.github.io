@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://pediatek.github.io/sitemap.xml
